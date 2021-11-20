@@ -1,0 +1,13 @@
+ /* دى الصفحة اللى هتدخل  عليها 
+ **  php.validate.executablePath
+ ** {
+    "workbench.colorTheme": "Default Dark+",
+    "php.validate.executablePath": "C:\xampp\php\php.exe"
+    }
+ **
+ **
+ */
+
+{
+    "php.validate.executablePath" : "C:\xampp\php\php.exe"
+}
